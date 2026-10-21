@@ -1,1 +1,1 @@
-# git-collab-lab
+# Git Collaboration Lab
